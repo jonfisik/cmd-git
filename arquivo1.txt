@@ -10,3 +10,24 @@ $ clear -> 'limpa terminal'
 $ git config user.name -> 'mostra o nome do usuário cadastrado'
 
 $ git config user.email -> 'mostra o nome do usuário cadastrado'
+
+$ git config --global core.editor "caminho executável"
+
+$ git config core.editor -> "mostra editor configurado"
+
+#--------------------------------------------------------------------------------------
+
+$ pwd -> 'indica localização do usuário
+
+$ cd /unidade -> 'muda a unidade'
+
+$ ls -> 'lista arquivos e diretórios'
+
+$ mkdir nome_do_diretório -> 'cria pasta'
+
+$ touch nome_arquivo.extensão -> 'cria arquivo'
+
+$ touch nome_do_diretório/nome_arquivo.extensão 'cria arquivo e diretório'
+
+#--------------------------------------------------------------------------------------
+
