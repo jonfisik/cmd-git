@@ -30,4 +30,8 @@ $ touch nome_arquivo.extensão -> 'cria arquivo'
 $ touch nome_do_diretório/nome_arquivo.extensão 'cria arquivo e diretório'
 
 #--------------------------------------------------------------------------------------
+botão direito / git basch here
 
+$ git init -> 'cria a pasta .git'
+
+$ git -a -> mostra caminho e pasta
