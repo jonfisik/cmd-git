@@ -1,0 +1,12 @@
+comandos git bash
+$ git version -> 'mostra a versão do git'
+
+$ git config --global user.name "nome do usuário" -> 'add o nome do usuário'
+
+$ git config --global user.email "email@email.com" -> 'add o email que será usado'
+
+$ clear -> 'limpa terminal'
+
+$ git config user.name -> 'mostra o nome do usuário cadastrado'
+
+$ git config user.email -> 'mostra o nome do usuário cadastrado'
