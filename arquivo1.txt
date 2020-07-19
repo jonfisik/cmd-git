@@ -34,7 +34,7 @@ botão direito / git basch here
 
 $ git init -> 'cria a pasta .git'
 
-$ git -a -> mostra caminho e pasta
+$ git ls -a -> mostra caminho e pasta
 
 $ git add . ou * -> add todos os novos arquivos
 
