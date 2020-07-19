@@ -35,3 +35,19 @@ botão direito / git basch here
 $ git init -> 'cria a pasta .git'
 
 $ git -a -> mostra caminho e pasta
+
+$ git add . ou * -> add todos os novos arquivos
+
+$ git commit -m "fazer comentário" -> add ao projeto
+
+$ git log -> vê alterações 
+
+$ code . -> chama o editor vs code (configurado)
+
+$ git status -> mostra o estatus das alterações
+
+$ git log oneline -> mostra alterações simplificadas
+
+
+
+
