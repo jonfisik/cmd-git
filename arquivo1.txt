@@ -46,7 +46,18 @@ $ code . -> chama o editor vs code (configurado)
 
 $ git status -> mostra o estatus das alterações
 
-$ git log oneline -> mostra alterações simplificadas
+$ git log --oneline -> mostra alterações simplificadas
+
+$ git log --graph -> mostra o gráfico de commit 
+
+$ git log oneline --graph
+
+$ git commit -am -> add arquivo ao container e cria um commit
+
+$ git branch -> identifica o ramo do projeto
+
+$ git checkout numero do hash -> ratrear hash. Aponta o head para o commit que será modificado
+
 
 
 
