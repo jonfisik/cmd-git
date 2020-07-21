@@ -14,7 +14,7 @@ Alguns comandos básicos e comentários:
 
 `$ git log --graph`-> mostra o gráfico de commit;
 
-`$ git log oneline --graph` -> mostra alterações simplificadas e o grafico de commits;
+`$ git log --oneline --graph` -> mostra alterações simplificadas e o grafico de commits;
 
 `$ git commit -am` -> add arquivo ao container e cria um commit;
 
