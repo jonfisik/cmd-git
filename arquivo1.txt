@@ -36,7 +36,7 @@ $ git init -> 'cria a pasta .git'
 
 $ git ls -a -> mostra caminho e pasta
 
-$ git add . ou * -> add todos os novos arquivos
+$ git add . ou * -> add todos os novos arquivos (mudanças) ao contener
 
 $ git commit -m "fazer comentário" -> add ao projeto
 
@@ -60,3 +60,10 @@ $ git checkout <numero do hash> -> ratrear hash. Aponta o head para o commit que
 
 $ git checkout master -> retornar ao último commit
 
+$ git diff -> Mostra alterações feitas nos arquivos (usado antes de add conteúdo ao contener)
+
+$ git checkout <nome_arquivo.extensao>
+
+$ git add * ou . -> adiciona as mudanças ao contener
+
+$ git reset HEAD <arquivo.extensao> -> remove conteúdo do contener
