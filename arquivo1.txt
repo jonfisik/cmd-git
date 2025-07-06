@@ -11,7 +11,7 @@ $ git config user.name -> 'mostra o nome do usuário cadastrado'
 
 $ git config user.email -> 'mostra o nome do usuário cadastrado'
 
-$ git config --global core.editor "caminho executável"
+$ git config --global core.editor "digitar caminho executável"
 
 $ git config core.editor -> "mostra editor configurado"
 
