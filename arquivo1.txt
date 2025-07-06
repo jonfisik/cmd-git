@@ -56,7 +56,7 @@ $ git commit -am -> add arquivo ao container e cria um commit
 
 $ git branch -> identifica o ramo do projeto
 
-$ git checkout numero do hash -> ratrear hash. Aponta o head para o commit que será modificado
+$ git checkout <numero do hash> -> ratrear hash. Aponta o head para o commit que será modificado
 
 
 
