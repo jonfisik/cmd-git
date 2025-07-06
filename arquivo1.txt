@@ -58,7 +58,5 @@ $ git branch -> identifica o ramo do projeto
 
 $ git checkout <numero do hash> -> ratrear hash. Aponta o head para o commit que será modificado
 
-
-
-
+$ git checkout master -> retornar ao último commit
 
