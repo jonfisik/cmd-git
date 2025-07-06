@@ -67,3 +67,5 @@ $ git checkout <nome_arquivo.extensao>
 $ git add * ou . -> adiciona as mudanças ao contener
 
 $ git reset HEAD <arquivo.extensao> -> remove conteúdo do contener
+
+$ git reset --hard <hash> -> remove o último commit
