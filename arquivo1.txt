@@ -48,6 +48,8 @@ $ git status -> mostra o estatus das alterações
 
 $ git log --oneline -> mostra alterações simplificadas
 
+$ git log --pretty=oneline (substitui o anterior)
+
 $ git log --graph -> mostra o gráfico de commit 
 
 $ git log oneline --graph
