@@ -71,3 +71,12 @@ $ git add * ou . -> adiciona as mudanças ao contener
 $ git reset HEAD <arquivo.extensao> -> remove conteúdo do contener
 
 $ git reset --hard <hash> -> remove o último commit
+
+$ git checkout -b <nome_da_ramificacao> -> cria nova ramificacao
+
+$ git checkout master -> retorna ao ramo master
+
+$ git pull 
+
+$ git push
+
