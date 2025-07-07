@@ -54,6 +54,10 @@ $ git log --graph -> mostra o gráfico de commit
 
 $ git log oneline --graph
 
+$ git log oneline --graph --all 
+
+$ git log --graph --all
+
 $ git commit -am -> add arquivo ao container e cria um commit
 
 $ git branch -> identifica o ramo do projeto
@@ -79,4 +83,10 @@ $ git checkout master -> retorna ao ramo master
 $ git pull 
 
 $ git push
+
+$ git merge <nome_ramo_secundario>  -> uni ramo segundario ao principal
+
+$ git merge --abort -> Aborta fusao dos ramos
+
+
 
