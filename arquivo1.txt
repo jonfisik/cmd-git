@@ -95,3 +95,11 @@ git remote -v -> para mais detalhes do repositorio
 $ git remote add origin <https(protocolo ou ssh)://github.com/nome_repositorio/git.git> -> conecta repositorio remoto com local
 
 $ git push -u origin master -> atualiza repositorio remoto
+#--------------------------------------------------------------------------------------
+
+
+
+
+
+
+
