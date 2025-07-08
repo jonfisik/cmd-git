@@ -30,6 +30,7 @@ $ touch nome_arquivo.extensão -> 'cria arquivo'
 $ touch nome_do_diretório/nome_arquivo.extensão 'cria arquivo e diretório'
 
 #--------------------------------------------------------------------------------------
+
 botão direito / git basch here
 
 $ git init -> 'cria a pasta .git'
@@ -95,11 +96,25 @@ git remote -v -> para mais detalhes do repositorio
 $ git remote add origin <https(protocolo ou ssh)://github.com/nome_repositorio/git.git> -> conecta repositorio remoto com local
 
 $ git push -u origin master -> atualiza repositorio remoto
+
 #--------------------------------------------------------------------------------------
 
+https://github.com/settings/apps -> caminho para gerar o token
 
+#--------------------------------------------------------------------------------------
 
+$ git clone <link_do_repositorio> -> clonar repositorio remoto
 
+#--------------------------------------------------------------------------------------
 
+Instalação do git no linux
 
+$ sudo apt-get update
 
+$ sudo apt-get install git 
+
+$ git config --global user.name "nome do usuário" -> 'add o nome do usuário'
+
+$ git config --global user.email "email@email.com" -> 'add o email que será usado'
+
+$ cat gitconfig -> Ver conteúdo pasta gitconfig
