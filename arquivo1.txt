@@ -132,3 +132,12 @@ $ git checkout origin
 $ git checkout master -> retorna ao ramo principal (master)
 
 git pull 
+
+#--------------------------------------------------------------------------------------
+
+ Fork e Pull Request - alteracoes sem modificacoes no projeto principal (novo projeto) - contribuicoes para o projeto - GITHUB 
+
+#--------------------------------------------------------------------------------------
+
+
+#--------------------------------------------------------------------------------------
