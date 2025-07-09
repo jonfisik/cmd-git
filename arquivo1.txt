@@ -81,7 +81,7 @@ $ git checkout -b <nome_da_ramificacao> -> cria nova ramificacao
 
 $ git checkout master -> retorna ao ramo master
 
-$ git pull 
+$ git pull -> Sincroniza o repositorio remoto com o local (apos alteracoes no github) 
 
 $ git push
 
