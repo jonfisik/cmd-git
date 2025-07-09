@@ -4,7 +4,10 @@ Repository created during the course of git and github of the channel [Professor
 # cmd-git :book:
 Repositório criado durante o curso de git e github do canal [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q). *Trata-se de carderno de anotações*. Os arquivos foram criados e utilizados para teste durante as vídeos aulas da playlist [Curso prático GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj). Os arquivos tem extesão .txt e o conteúdo é uma coleção de comando com seus respectivos significados aplicados ao git bash.
 
-![comando git](https://github.com/jonfisik/cmd-git/blob/master/figuras/gitbash1.jpg)
+
+<p>
+<img aling=center src="https://github.com/jonfisik/cmd-git/blob/master/figuras/gitbash1.jpg" width="250">
+</p>
 
 Alguns comandos básicos e comentários:
 
