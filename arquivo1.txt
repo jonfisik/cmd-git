@@ -118,3 +118,17 @@ $ git config --global user.name "nome do usuário" -> 'add o nome do usuário'
 $ git config --global user.email "email@email.com" -> 'add o email que será usado'
 
 $ cat gitconfig -> Ver conteúdo pasta gitconfig
+
+#--------------------------------------------------------------------------------------
+
+$ git fetch -> Faz donwload das mudanças dos arquivos no repositorio remoto, mas sem o merge (funsão dos repositorios)
+
+Na sequencia
+
+$ git remote
+
+$ git checkout origin
+
+$ git checkout master -> retorna ao ramo principal (master)
+
+git pull 
