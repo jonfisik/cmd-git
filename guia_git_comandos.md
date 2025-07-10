@@ -1,6 +1,12 @@
 
 # ✅ Guia Essencial de Comandos Git + Bash
 
+# cmd-git :book:
+Repository created during the course of git and github of the channel [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q). *It is a cardinal of notes*. The files were created and used for testing during the video lessons in the playlist [Practical course GIT and GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj). The files have .txt extension and the content is a command collection with their respective meanings applied to git bash.
+
+# cmd-git :book:
+Repositório criado durante o curso de git e github do canal [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q). *Trata-se de carderno de anotações*. Os arquivos foram criados e utilizados para teste durante as vídeos aulas da playlist [Curso prático GIT e GITHUB](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj). Os arquivos tem extesão .txt e o conteúdo é uma coleção de comando com seus respectivos significados aplicados ao git bash.
+
 ## 📦 Instalação do Git (Linux)
 ```bash
 $ sudo apt-get update
