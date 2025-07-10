@@ -137,6 +137,8 @@ git pull
 
  Fork e Pull Request - alteracoes sem modificacoes no projeto principal (novo projeto) - contribuicoes para o projeto - GITHUB 
 
+Issues - 
+
 #--------------------------------------------------------------------------------------
 
 
